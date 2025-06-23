@@ -42,7 +42,7 @@ Together, Neo Athelios signifies our pursuit of new ideas, enlightened solutions
 
 Here are some of the public repositories showcasing our work:
 
-* **[CodeClash2.0](https://github.com/Neo-Athelios/CodeClash2.0)**: Our dedicated repository providing essential data and resources for projects within the Health Tech track of CodeClash hackathon's second edition.
+* **[CodeClash2.0](https://github.com/Neo-Athelios/CodeClash2.0)**: Our submission for CodeClash2.0 - NutriSense: Your smart Indian nutrition tracker. Explore comprehensive food data, search, and filter to easily make healthier dietary decisions.
 * **[WebDash](https://github.com/Neo-Athelios/WebDash)**: Our submission for WebDash 2025 - a Website Development Challenge by IEEE JMI.
 * **[WebDash-book-a-demo](https://github.com/Neo-Athelios/WebDash-book-a-demo)**: A child repository related to WebDash 2025.
 
